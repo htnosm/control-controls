@@ -34,7 +34,7 @@ jobs:
 
       - name: Setup
         run: |
-          brew uninstall go@1.17
+          brew uninstall --force go@1.17
           brew install go
           brew install goreleaser
 

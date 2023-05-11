@@ -1,3 +1,6 @@
+## [v0.7.3](https://github.com/htnosm/control-controls/compare/v0.7.2...v0.7.3) - 2023-05-11
+- fix: Update ControlFindingGenerator handling by @htnosm in https://github.com/htnosm/control-controls/pull/9
+
 ## [v0.7.2](https://github.com/htnosm/control-controls/compare/v0.7.1...v0.7.2) - 2023-04-27
 - chore: Update workflow by @htnosm in https://github.com/htnosm/control-controls/pull/7
 

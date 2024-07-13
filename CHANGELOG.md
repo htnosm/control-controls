@@ -1,3 +1,13 @@
+## [v0.8.2](https://github.com/htnosm/control-controls/compare/v0.8.1...v0.8.2) - 2024-07-13
+- feat: Add improve handling of ControlFindingGenerator by @htnosm in https://github.com/htnosm/control-controls/pull/1
+- chore: Update workflow by @htnosm in https://github.com/htnosm/control-controls/pull/2
+- chore: Update workflow by @htnosm in https://github.com/htnosm/control-controls/pull/3
+- chore: Update workflow by @htnosm in https://github.com/htnosm/control-controls/pull/5
+- chore: Update workflow by @htnosm in https://github.com/htnosm/control-controls/pull/7
+- fix: Update ControlFindingGenerator handling by @htnosm in https://github.com/htnosm/control-controls/pull/9
+- Update develop by @htnosm in https://github.com/htnosm/control-controls/pull/11
+- feat: Improve handling of DisabledReason field is nil by @htnosm in https://github.com/htnosm/control-controls/pull/13
+
 ## [v0.8.1](https://github.com/pepabo/control-controls/compare/v0.8.0...v0.8.1) - 2023-05-12
 
 ## [v0.8.0](https://github.com/pepabo/control-controls/compare/v0.7.0...v0.8.0) - 2023-05-12

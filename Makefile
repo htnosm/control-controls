@@ -51,6 +51,6 @@ release:
 
 release_develop:
 	git push origin develop --tag
-	goreleaser --rm-dist
+	goreleaser --clean
 
 .PHONY: default test

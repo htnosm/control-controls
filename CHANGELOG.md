@@ -1,16 +1,7 @@
-## [v0.7.3](https://github.com/htnosm/control-controls/compare/v0.7.2...v0.7.3) - 2023-05-11
-- fix: Update ControlFindingGenerator handling by @htnosm in https://github.com/htnosm/control-controls/pull/9
+## [v0.8.1](https://github.com/pepabo/control-controls/compare/v0.8.0...v0.8.1) - 2023-05-12
 
-## [v0.7.2](https://github.com/htnosm/control-controls/compare/v0.7.1...v0.7.2) - 2023-04-27
-- chore: Update workflow by @htnosm in https://github.com/htnosm/control-controls/pull/7
-
-## [v0.7.1](https://github.com/htnosm/control-controls/compare/v0.7.0...v0.7.1) - 2023-04-27
-- chore: Update workflow by @htnosm in https://github.com/htnosm/control-controls/pull/5
-
-## [v0.7.0](https://github.com/htnosm/control-controls/commits/v0.7.0) - 2023-04-27
-- feat: Add improve handling of ControlFindingGenerator by @htnosm in https://github.com/htnosm/control-controls/pull/1
-- chore: Update workflow by @htnosm in https://github.com/htnosm/control-controls/pull/2
-- chore: Update workflow by @htnosm in https://github.com/htnosm/control-controls/pull/3
+## [v0.8.0](https://github.com/pepabo/control-controls/compare/v0.7.0...v0.8.0) - 2023-05-12
+- (ref #34) feat: Add improve handling of ControlFindingGenerator by @htnosm in https://github.com/pepabo/control-controls/pull/35
 
 ## [v0.7.0](https://github.com/pepabo/control-controls/compare/v0.6.6...v0.7.0) - 2023-01-12
 - Update packages by @k1LoW in https://github.com/pepabo/control-controls/pull/31

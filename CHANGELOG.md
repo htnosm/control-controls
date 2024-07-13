@@ -1,3 +1,6 @@
+## [v0.8.7](https://github.com/htnosm/control-controls/compare/v0.8.6...v0.8.7) - 2024-07-13
+- chore: Change changelog skip->disablen in .goreleaser.yml by @htnosm in https://github.com/htnosm/control-controls/pull/22
+
 ## [v0.8.6](https://github.com/htnosm/control-controls/compare/v0.8.5...v0.8.6) - 2024-07-13
 - chore: Update goreleaser.yml to version 2 by @htnosm in https://github.com/htnosm/control-controls/pull/20
 

@@ -1,3 +1,6 @@
+## [v0.8.4](https://github.com/htnosm/control-controls/compare/v0.8.3...v0.8.4) - 2024-07-13
+- chore: Update workflow by @htnosm in https://github.com/htnosm/control-controls/pull/16
+
 ## [v0.8.3](https://github.com/htnosm/control-controls/compare/v0.8.2...v0.8.3) - 2024-07-13
 - chore: Update workflow by @htnosm in https://github.com/htnosm/control-controls/pull/14
 

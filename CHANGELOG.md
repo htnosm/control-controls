@@ -1,3 +1,6 @@
+## [v0.8.5](https://github.com/htnosm/control-controls/compare/v0.8.4...v0.8.5) - 2024-07-13
+- chore: Update goreleaser.yml to version 2 by @htnosm in https://github.com/htnosm/control-controls/pull/18
+
 ## [v0.8.4](https://github.com/htnosm/control-controls/compare/v0.8.3...v0.8.4) - 2024-07-13
 - chore: Update workflow by @htnosm in https://github.com/htnosm/control-controls/pull/16
 

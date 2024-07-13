@@ -381,7 +381,11 @@ func ctrls(ctx context.Context, c *securityhub.Client, subscriptionArn *string) 
 			case types.ControlStatusEnabled:
 				cs.Enable = append(cs.Enable, *ctrl.ControlId)
 			case types.ControlStatusDisabled:
-				cs.Disable = append(cs.Disable, yaml.MapItem{Key: *ctrl.ControlId, Value: *ctrl.DisabledReason})
+				if ctrl.DisabledReason == nil {
+					cs.Disable = append(cs.Disable, yaml.MapItem{Key: *ctrl.ControlId, Value: ""})
+				} else {
+					cs.Disable = append(cs.Disable, yaml.MapItem{Key: *ctrl.ControlId, Value: *ctrl.DisabledReason})
+				}
 			}
 		}
 		nt = ctrls.NextToken
